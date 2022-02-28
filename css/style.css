@@ -1,0 +1,98 @@
+body{
+  text-align: center;
+  background-color: hsl(217, 54%, 11%);
+  font-family: 'Outfit', sans-serif;
+}
+ a{
+   text-decoration: none;
+ }
+.content{
+  background-color: hsl(216, 50%, 16%);
+  width: 15%;
+  margin: 150px auto;
+  padding: 20px 20px 20px 20px;
+  border: solid 0px;
+  border-radius: 14px;
+}
+
+.credit p{
+  font-size: 0.8rem;
+  color: hsl(215, 51%, 70%);
+}
+
+.clock{
+  position: absolute;
+  top: 0px;
+  right: 0px;
+}
+.clock-1{
+  float: left;
+}
+
+.clock p{
+  color: hsl(215, 51%, 70%);
+  text-align: left;
+  padding-left: 20px;
+  font-size: 0.75rem;
+  margin-top: 0;
+}
+
+.description{
+  text-align: left;
+  color: hsl(215, 51%, 70%);
+  font-size: 0.8rem;
+  margin-bottom: 15px;
+  margin-top: 15px;
+}
+
+.equi-1{
+  float: left;
+}
+
+.equi-img{
+  border: solid 0px;
+  border-radius: 8px;
+  height: 200px;
+  width: 200px;
+  margin: 0 0 0 0;
+}
+
+.equi p{
+  color: hsl(178, 100%, 50%);
+  text-align: left;
+  padding-left: 20px;
+  font-size: 0.75rem;
+}
+
+hr{
+  height: 0px;
+  border-width: 1px 0 0 0;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.list{
+  position: relative;
+}
+.profile-img{
+  float: left;
+  height: 30px;
+  width: 30px;
+}
+
+span{
+  color: white;
+}
+
+span:hover{
+  color: hsl(178, 100%, 50%);
+}
+
+.title{
+  text-align: left;
+  color: white;
+}
+
+.title:hover{
+  color: hsl(178, 100%, 50%);
+}
